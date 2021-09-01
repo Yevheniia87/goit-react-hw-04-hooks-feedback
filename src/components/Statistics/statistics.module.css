@@ -1,0 +1,13 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+.statisticsItems {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.67;
+  color: rgb(91, 5, 252);
+}

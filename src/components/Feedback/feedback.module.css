@@ -1,0 +1,19 @@
+.optionsItems {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+.optionList:not(:last-child) {
+  margin-right: 22px;
+}
+.optionBtn {
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid blue;
+  cursor: pointer;
+  background-color: yellow;
+  color: blue;
+}
